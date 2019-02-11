@@ -24,4 +24,4 @@ Waarom werkt dat niet?
 
 ## Week 2
 
-[socrative] https://socrative.com
+[socrative]: https://socrative.com
