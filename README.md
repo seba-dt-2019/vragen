@@ -24,4 +24,8 @@ Waarom werkt dat niet?
 
 ## Week 2
 
+### moduleopdracht
+het lukt mij niet om het rondje het vierkantje te laten volgen, hoe hebben jullie dat opgelost?
+
+
 [socrative]: https://socrative.com
