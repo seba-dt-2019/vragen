@@ -26,6 +26,8 @@ Waarom werkt dat niet?
 
 ### moduleopdracht
 het lukt mij niet om het rondje het vierkantje te laten volgen, hoe hebben jullie dat opgelost?
+  
+  Door de coordinaten gelijk te zetten met het is gelijk aan teken  ~Dennis 
 
 
 [socrative]: https://socrative.com
