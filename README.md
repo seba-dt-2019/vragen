@@ -61,3 +61,5 @@ Ik probeer het plaatje van moduleopdracht 6 toe te voegen aan mijn programma, ma
 [socrative]: https://socrative.com
 [pimage]: https://processing.org/reference/PImage.html
 [loadimage]: https://processing.org/reference/PImage.html
+
+> mijn (sam's) huiswerk staat al gepost... kijk daar even snel in voor een voorbeeldje
