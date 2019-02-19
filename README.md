@@ -54,4 +54,8 @@ Wat is de sneltoets om te gaan runnen in processing?
 ### Plaatje invoegen
 Ik probeer het plaatje van moduleopdracht 6 toe te voegen aan mijn programma, maar als ik een variabele toevoeg met de naam PImage, dan zegt Processing dat dit geen variabele is. Wat doe ik verkeerd? 
 
+> [`PImage`][pimage] is een type, zoals `int`. Wanneer jij een variabele van het `PImage` wilt gebruiken zul jij het eerst moeten declareren. Bijvoorbeeld met `PImage plaatje`. Later kun jij een dan een `PImage` laden met [`loadImage`][loadimage].
+
 [socrative]: https://socrative.com
+[pimage]: https://processing.org/reference/PImage.html
+[loadimage]: https://processing.org/reference/PImage.html
