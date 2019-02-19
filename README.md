@@ -36,4 +36,12 @@ Wat is een eenvoudige manier om je code te reviewen en te ontdekken dat e.e.a. o
 
 ## Week 3
 
+## Knop
+Hoe maak je "gemakkelijk" een knop met daarop een event in processing?
+
+## Sneltoets
+Wat is de sneltoets om te gaan runnen in processing?
+
+ 
+
 [socrative]: https://socrative.com
