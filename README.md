@@ -56,6 +56,8 @@ Ik probeer het plaatje van moduleopdracht 6 toe te voegen aan mijn programma, ma
 
 > [`PImage`][pimage] is een type, zoals `int`. Wanneer jij een variabele van het `PImage` wilt gebruiken zul jij het eerst moeten declareren. Bijvoorbeeld met `PImage plaatje`. Later kun jij een dan een `PImage` laden met [`loadImage`][loadimage].
 
+>> Precies zoals je het omschrijft heb ik het vanmidag geprobeerd, maar het zegt dat PImage geen datatype is...
+
 [socrative]: https://socrative.com
 [pimage]: https://processing.org/reference/PImage.html
 [loadimage]: https://processing.org/reference/PImage.html
