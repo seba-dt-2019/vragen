@@ -51,6 +51,7 @@ Wat is de sneltoets om te gaan runnen in processing?
 
 > CTRL + R ~Sam
 
- 
+## Plaatje invoegen
+Ik probeer het plaatsje van moduleopdracht 6 toe te voegen aan mijn programma, maar als ik een variabele toevoeg met de naam PImage, dan zegt Processing dat dit geen variabele is. Wat doe ik verkeerd? 
 
 [socrative]: https://socrative.com
