@@ -12,6 +12,11 @@ Zelf vragen toevoegen? Vraag om [lid te worden van deze organisatie](https://git
 ## Socrative Quiz
 Een onderdeel van dit vak is het doen van een [Socrative Quiz][socrative]. Ieder week, voor de online les op dinsdag, kun jij een quiz doen. Ga hiervoor naar [`socrative.com`][socrative]. Log in als student in kamer **SEBADT**. Deze quiz wordt dan in de les besproken.
 
+### Resultaten
+De resultaten van de verschillende toetsen vind jij hieronder.
+
+* [Week 2](https://github.com/seba-dt-2019/vragen/raw/master/resultaten_week2.xlsx)
+
 ## Week 1
 ### `draw`
 Waarom is er een draw functie als het eigenlijk een while-loop is?
