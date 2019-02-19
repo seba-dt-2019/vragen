@@ -41,17 +41,17 @@ Wat is een eenvoudige manier om je code te reviewen en te ontdekken dat e.e.a. o
 
 ## Week 3
 
-## Knop
+### Knop
 Hoe maak je "gemakkelijk" een knop met daarop een event in processing?
 
 > https://processing.org/examples/button.html ~Sam
 
-## Sneltoets
+### Sneltoets
 Wat is de sneltoets om te gaan runnen in processing?
 
 > CTRL + R ~Sam
 
-## Plaatje invoegen
+### Plaatje invoegen
 Ik probeer het plaatje van moduleopdracht 6 toe te voegen aan mijn programma, maar als ik een variabele toevoeg met de naam PImage, dan zegt Processing dat dit geen variabele is. Wat doe ik verkeerd? 
 
 [socrative]: https://socrative.com
