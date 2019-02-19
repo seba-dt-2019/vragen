@@ -29,5 +29,9 @@ het lukt mij niet om het rondje het vierkantje te laten volgen, hoe hebben julli
 
 > Door de coördinaten gelijk te zetten met het is gelijk aan teken  ~Dennis 
 
+### Verbetering code
+Wat is een eenvoudige manier om je code te reviewen en te ontdekken dat e.e.a. overzichtelijker kan of bijvoorbeeld in een functie kan worden gezet.
+
+> Besproken in de les. Korte samenvatting. Zorg ervoor dat de code zich zelf beschrijft, ga op zoek naar manieren om code eenvoudiger te maken.
 
 [socrative]: https://socrative.com
