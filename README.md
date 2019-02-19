@@ -34,4 +34,6 @@ Wat is een eenvoudige manier om je code te reviewen en te ontdekken dat e.e.a. o
 
 > Besproken in de les. Korte samenvatting. Zorg ervoor dat de code zich zelf beschrijft, ga op zoek naar manieren om code eenvoudiger te maken.
 
+## Week 3
+
 [socrative]: https://socrative.com
