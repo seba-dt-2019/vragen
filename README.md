@@ -42,6 +42,8 @@ Hoe maak je "gemakkelijk" een knop met daarop een event in processing?
 ## Sneltoets
 Wat is de sneltoets om te gaan runnen in processing?
 
+> CTRL + R ~Sam
+
  
 
 [socrative]: https://socrative.com
