@@ -72,4 +72,6 @@ Waarom protesteert Processing als ik zonder de setup() functie te gebruiken een 
 
 ### Waarom noemen we de functies methodes zonder dat ze in een class zitten?
 
-...
+### Voor donderdag
+* Kan mijn gebruik van globale variabelen worden voorkomen en is de manier waarop ik ze inzet "slecht"? (Vincent)
+* Toelichting over schrijving ontwerpdocumentatie m.b.t. eindopdracht.
