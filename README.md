@@ -65,3 +65,11 @@ Ik probeer het plaatje van moduleopdracht 6 toe te voegen aan mijn programma, ma
 > mijn (sam's) huiswerk staat al gepost... kijk daar even snel in voor een voorbeeldje
 
 ## Week 4
+
+### Methode aanroepen zonder de setup() functie.
+
+Waarom protesteert Processing als ik zonder de setup() functie te gebruiken een methode wil aanroepen?
+
+### Waarom noemen we de functies methodes zonder dat ze in een class zitten?
+
+...
