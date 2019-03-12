@@ -75,3 +75,9 @@ Waarom protesteert Processing als ik zonder de setup() functie te gebruiken een 
 ### Voor donderdag
 * Kan mijn gebruik van globale variabelen worden voorkomen en is de manier waarop ik ze inzet "slecht"? (Vincent)
 * Toelichting over schrijving ontwerpdocumentatie m.b.t. eindopdracht.
+
+## Week 5
+
+### In het controledocument voor documentatie staat het e.e.a. over de bronvermelding. Echter heb ik het idee dat voor het ontwerpdocument voor de casusopdracht niet echt bronnen nodig zijn. Klopt dit?
+
+### Hoe uitvoerig moeten de testcases zijn?
