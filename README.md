@@ -83,3 +83,4 @@ Waarom protesteert Processing als ik zonder de setup() functie te gebruiken een 
 ### In het controledocument voor documentatie staat het e.e.a. over de bronvermelding. Echter heb ik het idee dat voor het ontwerpdocument voor de casusopdracht niet echt bronnen nodig zijn. Klopt dit?
 
 ### Hoe uitvoerig moeten de testcases zijn?
+ ### test
